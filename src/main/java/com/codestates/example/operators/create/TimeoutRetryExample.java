@@ -21,6 +21,7 @@ public class TimeoutRetryExample {
                                 log.info("{} : {}", data.getKorName(), data.getPrice())));
 
 
+        
         Thread.sleep(12000);
 
     }
